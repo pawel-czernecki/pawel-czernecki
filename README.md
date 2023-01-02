@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**pawel-czernecki/pawel-czernecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Wojc.. Paweł, I'm studying cybersecurity at AGH.
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
