@@ -1,5 +1,7 @@
 ### My name is Wojc.. Paweł, I'm studying cybersecurity at AGH.
 
+https://pawel-czernecki.github.io/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
