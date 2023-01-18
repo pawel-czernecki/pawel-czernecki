@@ -2,6 +2,10 @@
 
 https://pawel-czernecki.github.io/
 
+## **Papers with code:**
+Fork: [link](https://github.com/pawel-czernecki/FinRL) \
+Artykuł: [link](https://paperswithcode.com/paper/finrl-a-deep-reinforcement-learning-library)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
