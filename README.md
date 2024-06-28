@@ -2,4 +2,4 @@ Hi, my name is Paweł. I am a cybersecurity student who has been in love with co
 
 - [Malware Analysis](#)
 - [Splunk Lab in Docker](https://github.com/pawel-czernecki/splunk-basic-lab-docker)
-- [GoPhish Lab]([#](https://github.com/pawel-czernecki/WDZC-phishing-simulation))
+- [GoPhish Lab](https://github.com/pawel-czernecki/WDZC-phishing-simulation)
